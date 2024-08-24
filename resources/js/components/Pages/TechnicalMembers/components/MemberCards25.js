@@ -24,13 +24,13 @@ const memberData = [
         description:
             "He is a B.Tech student in Computer Science & Engineering of 2021-25 batch.",
         profilePic: "https://tnpgndec.com/images/vansh.jpg",
-        linkedIn: "https://www.linkedin.com/in/vansh1190/",
-        instagram: "https://www.instagram.com/vansh1190/",
+        linkedIn: "https://www.linkedin.com/in/vansh1190",
+        instagram: "https://www.instagram.com/vansh1190",
         github: "https://github.com/vansh1190",
         mail: "mailto:vanshk605@gmail.com",
         twitter: "https://vansh1190.vercel.app"
 
-    },
+    }
    
 ];
 
